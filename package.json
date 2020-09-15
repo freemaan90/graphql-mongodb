@@ -1,0 +1,24 @@
+{
+  "name": "graphql-server-db",
+  "version": "1.0.0",
+  "description": "Ejemplo practico de graphql integrado con atlas db",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/freemaan90/graphql-mongodb.git"
+  },
+  "keywords": [
+    "graphql",
+    "mongodb",
+    "react"
+  ],
+  "author": "Frederico Zanoni Ruiz <fredericozanoni@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/freemaan90/graphql-mongodb/issues"
+  },
+  "homepage": "https://github.com/freemaan90/graphql-mongodb#readme"
+}
